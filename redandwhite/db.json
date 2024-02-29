@@ -1,0 +1,105 @@
+{
+  "product":[
+    {
+      "category": "Men",
+      "title": "Classic Leather Men's Shoes  ",
+      "description": "Elevate your style with these classic leather shoes. Crafted for comfort and durability, these shoes are perfect for any occasion.",
+      "price": 79.99,
+      "oldPrice": 99.99,
+      "rating": 4.5,
+      "inStock": 120,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "category": "Women",
+      "title": "Stylish Canvas Handbag",
+      "description": "Make a statement with this stylish canvas handbag. Featuring ample space and durable construction, it's perfect for daily use or special occasions.",
+      "price": 49.99,
+      "oldPrice": 59.99,
+      "rating": 4.2,
+      "inStock": 80,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "title": "Wireless Bluetooth Headphones",
+      "description": "Experience freedom with these wireless Bluetooth headphones. Enjoy crisp sound quality and comfortable design for hours of listening pleasure.",
+      "price": 129.99,
+      "oldPrice": 149.99,
+      "rating": 4.7,
+      "inStock": 200,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "category": "Men",
+      "title": "Casual Slim Fit Shirt",
+      "description": "Upgrade your wardrobe with this casual slim fit shirt. Made from high-quality cotton, it offers both style and comfort for everyday wear.",
+      "price": 34.99,
+      "oldPrice": 39.99,
+      "rating": 4.0,
+      "inStock": 150,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "category": "Women",
+      "title": "Elegant Rose Gold Watch",
+      "description": "Accessorize with elegance using this stunning rose gold watch. Its timeless design and precision craftsmanship make it a must-have for any fashion-forward woman.",
+      "price": 89.99,
+      "oldPrice": 109.99,
+      "rating": 4.8,
+      "inStock": 100,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "title": "Smart Home Security Camera",
+      "description": "Keep your home safe with this smart security camera. Featuring HD resolution and motion detection, it provides peace of mind whether you're at home or away.",
+      "price": 79.99,
+      "oldPrice": 89.99,
+      "rating": 4.6,
+      "inStock": 120,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "category": "Men",
+      "title": "Vintage Leather Wallet",
+      "description": "Add a touch of sophistication to your everyday carry with this vintage leather wallet. With ample card slots and a sleek design, it's both functional and stylish.",
+      "price": 49.99,
+      "oldPrice": 59.99,
+      "rating": 4.3,
+      "inStock": 90,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "category": "Women",
+      "title": "Chic Leather Crossbody Bag",
+      "description": "Complete your look with this chic leather crossbody bag. Its versatile design and premium materials make it an essential accessory for any fashionista.",
+      "price": 69.99,
+      "oldPrice": 79.99,
+      "rating": 4.5,
+      "inStock": 110,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "title": "Portable Power Bank",
+      "description": "Stay charged on the go with this portable power bank. Compact and lightweight, it's perfect for traveling or commuting without worrying about battery life.",
+      "price": 29.99,
+      "oldPrice": 39.99,
+      "rating": 4.4,
+      "inStock": 180,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "category": "Men",
+      "title": "Sporty Stainless Steel Watch",
+      "description": "",
+      "price": 109.99,
+      "oldPrice": 129.99,
+      "rating": 4.6,
+      "inStock": 70,
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    }
+  ]
+  
+}
